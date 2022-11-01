@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "829652a8e50c1a89376d5f6e4510f2d33ff40334f0b684101a3aff2b95891a61"
+            "sha256": "ec9bb7cc0ca416e8fd2025522e8f0252e4a1a1d08ba45c443a5087ccf10f3d11"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -38,6 +38,14 @@
             ],
             "index": "pypi",
             "version": "==0.10.1"
+        },
+        "blazeform": {
+            "hashes": [
+                "sha256:7fede7fb7ac0a5f88c9032eac0c9b191b5c88d24c083e07b3129f1bc2bc3eea1",
+                "sha256:e77ea90a1f381f6e67e9846c18fe6b2bc90cd9f2deef39e82bd7b328b7ea828b"
+            ],
+            "index": "pypi",
+            "version": "==0.5.1"
         },
         "blazeutils": {
             "hashes": [
@@ -335,6 +343,13 @@
                 "sha256:b60839393f3b84a0f3746f6cdca56c1ad7426aa738b70d6c61375857823181de"
             ],
             "version": "==3.0.10"
+        },
+        "formencode": {
+            "hashes": [
+                "sha256:8f2974112c2557839d5bae8b76490104c03830785d923abbdef148bf3f710035",
+                "sha256:bea6d5b0016e129fe1ed41e2435f52dc25dbfe6391e16ebf75e8fece07682a74"
+            ],
+            "version": "==2.0.1"
         },
         "google-api-core": {
             "extras": [
@@ -1356,6 +1371,14 @@
             ],
             "index": "pypi",
             "version": "==2.1.2"
+        },
+        "webhelpers2": {
+            "hashes": [
+                "sha256:7ffc6f17f63b3bda770f54473194eaf2b40dafbb6d5615b30863212e1809f761",
+                "sha256:85711e44272e24c45ef015490ffa817b5fee4b0d4d8fe139edc3751853418c98",
+                "sha256:9a557ea31252a5beb654e52f67d7cf9ad4419a2b6e941b801d08f68a83daf02a"
+            ],
+            "version": "==2.0"
         },
         "werkzeug": {
             "hashes": [
